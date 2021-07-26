@@ -17,6 +17,8 @@
 </el-upload>
 </template>
 
+<!--upload artistic module -->
+
 <script>
   export default {
    
@@ -29,7 +31,7 @@
       handleError(err){
         const {errno, errMsg} = JSON.parse(err.message)
         if (errno === -1) {
-          this.$message.warning(errMsg)
+          this.$message.warning(errMsg) /*return desired error message*/
         }
       },
       submitUpload() {
