@@ -1,8 +1,8 @@
 # UPLOAD_MODULE
-Hey guys!
-Before testing this module, plz do following things
-1. install node.js and npm
-2. install vue,  vue/cli
+##Hey guys!
+#Before testing this module, plz do following things
+#1. install node.js and npm
+#2. install vue,  vue/cli
 
 After installation, drag the whole file "UPLOAD_MODULE" to pycharm or VScode or whatever IDE you use. In the terminal please execute following command:
 $ npm install vue
