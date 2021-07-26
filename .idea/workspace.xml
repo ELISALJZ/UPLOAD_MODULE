@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de5e9041-bdae-4bdf-a205-5b528d00e3c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/UPLOAD_MODULE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UPLOAD_MODULE.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serve/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/.idea/myproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/serve/.idea/myproject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/serve/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/data_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/serve/data_upload.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serve/templates/uploadtest.html" beforeDir="false" afterPath="$PROJECT_DIR$/serve/templates/uploadtest.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +63,37 @@
       <option name="presentableId" value="Default" />
       <updated>1627028650389</updated>
       <workItem from="1627028652927" duration="15000" />
-      <workItem from="1627264430712" duration="3178000" />
+      <workItem from="1627264430712" duration="3560000" />
+      <workItem from="1627268205020" duration="68000" />
     </task>
+    <task id="LOCAL-00001" summary="UPLOAD MODULE">
+      <created>1627267753834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627267753834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UPLOAD MODULE" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPLOAD MODULE" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/UPLOAD_MODULE$data_upload.coverage" NAME="data_upload Coverage Results" MODIFIED="1627267225227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/serve" />
